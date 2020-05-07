@@ -20,5 +20,5 @@ to streathen my **c#** capabilities
 	Author: Tanaka Chinengundu
 	GitHUb: https://github.com/TaqsBlaze
 
-**Download the executable here:** [a link](https://github.com/TaqsBlaze/CSharp-Bank/blob/master/v1.0.zip)<br>
+**Download the executable here:** [CSharp-Bank](https://github.com/TaqsBlaze/CSharp-Bank/blob/master/v1.0.zip)<br>
 :rocket
